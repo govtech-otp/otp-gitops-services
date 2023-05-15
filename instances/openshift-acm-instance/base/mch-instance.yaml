@@ -15,12 +15,12 @@ spec:
       enabled: false
     - name: cluster-backup
       enabled: false
-    - enabled: true
-      name: multiclusterhub-repo
+#    - enabled: true
+#      name: multiclusterhub-repo
     - enabled: true
       name: search
-    - enabled: true
-      name: management-ingress
+#    - enabled: true
+#      name: management-ingress
     - enabled: true
       name: console
     - enabled: true
